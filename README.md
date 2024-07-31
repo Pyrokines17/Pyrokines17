@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 August 2023 - To: 28 July 2024
+From: 18 August 2023 - To: 29 July 2024
 
-Total Time: 231 hrs
+Total Time: 231 hrs 1 min
 
 Java                146 hrs 43 mins >>>>>>>>>>>>>>>>---------   63.39 %
 C++                 36 hrs 15 mins  >>>>---------------------   15.66 %
